@@ -2,7 +2,7 @@
  
 The idea of this repo is to contain tutorials for OHDSI tools in the group.
 
-The four initial proposals:
+The initial proposals:
 
 ### 0) Set R environment ###
 
